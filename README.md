@@ -11,6 +11,13 @@ The langauges used here include python, c++, and php.
 
 The website is built using css and html.
 
+The pyhton code uses Spotipy to pull my top tracks and get the correct IDs for them. It then 
+puts all the information (artist name, song title, and album) in a dataframe whcih organizes all 
+the data. The data is split into three groups. Most recent top tracks (past month), pas few months, 
+and past few years. This information is then displayed on the website using a mix of php and c++, with html and css for styling. 
+
+
+
 Bugs: No known bugs. Some more css could be added to the webpage to make it clearer, but thats it.
 
 Citations: In main.py some of the code for the fucntions was borrowed or guided by https://jman4190.medium.com/build-your-own-spotify-wrapped-with-python-spotify-and-glide-apps-493dc7da20b <-- this website
