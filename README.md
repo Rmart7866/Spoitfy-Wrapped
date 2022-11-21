@@ -7,6 +7,10 @@ in python. So python is used to retirve the top tracks, then print them to the c
 files. From the main program in python, webpage.php is called. webpage.php calles wrapped.c++
 which iterates through the files and prints the html code to the website.
 
+The langauges used here include python, c++, and php.
+
+The website is built using css and html.
+
 Bugs: No known bugs. Some more css could be added to the webpage to make it clearer, but thats it.
 
 Citations: In main.py some of the code for the fucntions was borrowed or guided by https://jman4190.medium.com/build-your-own-spotify-wrapped-with-python-spotify-and-glide-apps-493dc7da20b <-- this website
