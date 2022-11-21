@@ -1,7 +1,5 @@
-# M3EOP-Rmarti20
-Open Ended Project Module 3
 Ryan Martin
-Installations: Spotipy
+Installations: Spotipy must be downlaoded in order to run this program
 
 Summary: So this program uses spotipy to go into my own spotify data to retieve my 
 top tracks. These top tracks are then printed on a website. Spotipy's funtions are 
@@ -17,23 +15,7 @@ Also the idea to use a dataframe was borrowed from the website
 
 Future Work: There is a lot I could add to this, mainly uploading more data to the site. Also making the site more detailed with some possible user interaction.
 
-Grade:
-There are three programing langauges used. C++, Python, and PHP
-There are two non programming langauges used: html and css
-Python calls the php file, which calls the c++ file to iterate through the files 
-made from main.py, and prints to the website via html
 
-The main program doesnt have much user iteraction, the one interaction is user validated.
-Python was chosen for the main fucntion because spotify is coded in python. Php was used to 
-produce the web page, c++ was used to iterate through the files and print to the web page.
-
-The other programming languges (php and python) are implemented in ways that make sense, and are free of bugs. 40pts
-
-The main prgram is complex but lacks user interaction as the priority was the website. 30pts
-
-The other languages CSS and html are implemented well and in a way that makes sense 20pts
-
-Information is passed via files for larger data sets 2pts
 
 https://rmarti20.w3.uvm.edu/M3EOP-Rmarti20/webpage.php <----- My Wrapped Webpage Link 
 
